@@ -504,13 +504,6 @@ if uploaded_file is not None:
 
                 st.pyplot(fig)
 
-        st.header("AI-Powered Business Recommendations")
-
-        st.write("• Improve products receiving consistently negative reviews.")
-        st.write("• Investigate recurring customer complaints.")
-        st.write("• Reward loyal and highly satisfied customers.")
-        st.write("• Improve delivery, packaging, or pricing strategies where needed.")
-        st.write("• Focus marketing campaigns on high-performing products.")
 
         with st.expander("View Detailed AI/ML Analysis"):
 
