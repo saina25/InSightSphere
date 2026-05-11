@@ -2,11 +2,7 @@
 
 AI-Powered Customer Sentiment & Business Intelligence Dashboard
 
----
-
-## Live Demo
-
-🔗 [Launch Live Dashboard](YOUR_STREAMLIT_LINK_HERE)
+🔗 Live Link: [InSightSphere-AI]([YOUR_STREAMLIT_LINK_HERE](https://insightsphere-ai.streamlit.app/))
 
 ---
 
